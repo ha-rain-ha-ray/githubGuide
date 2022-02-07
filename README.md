@@ -1,10 +1,10 @@
 A GUIDE TO GIT, GITHUB WITH EXPLANATION, UNDERSTANDING COMMITTER'S NAME IN GIT AND GITHUB AND SWITCHING BETWEEN MULTIPLE GITHUB USER ACCOUNTS
 
 Goals: 
-A) Create a repository in github. 
-B) Understanding basic git commands.
-C) Upload files in the github repo using git. 
-D) Understanding multiple users in commits and switching between different github accounts while pushing the repo
+A) Create a repository in github.   
+B) Understanding basic git commands.  
+C) Upload files in the github repo using git.   
+D) Understanding multiple users in commits and switching between different github accounts while pushing the repo  
 
 GOAL A (Create a repo in github)
 
